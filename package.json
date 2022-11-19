@@ -6,6 +6,7 @@
     "@amcharts/amcharts5": "^5.2.10",
     "@emotion/cache": "^11.4.0",
     "@emotion/react": "^11.4.1",
+    "@emotion/styled": "^11.3.0",
     "@iconify/icons-ant-design": "^1.1.0",
     "@iconify/icons-eva": "^1.1.0",
     "@iconify/icons-ic": "^1.1.10",
